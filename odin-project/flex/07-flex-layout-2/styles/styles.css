@@ -62,7 +62,7 @@ li > a {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  width: 200px;
+  min-width: 200px;
   padding-right: 150px;
   padding-left: 10px;
 }
